@@ -1,6 +1,6 @@
 <h1>
     <p style="text-align: center;"><strong>Investing In WordPress Website Hosting In London For Your Online Business Can Have Several Benefits</strong></p>
-    <p style="text-align: center;"><strong><img src="https://s3.amazonaws.com/wbstaticfiles/users/123522/879048_hosting.jpg" width="740" height="394"></strong><br></p>
+    <p style="text-align: center;"><strong><img src="https://s3.amazonaws.com/wbstaticfiles/users/123522/879048_hosting.jpg" width="640" height="394"></strong><br></p>
 </h1>
 <p style="text-align: justify;">Starting up an online business is the hottest trend right now. A website is essential for achieving this purpose, and choosing the right company to host your website is crucial for your success. For those based in London, WordPress website <a href="https://www.bemoreonline.co.uk/hosting/">hosting</a> is the perfect choice to make, and here&apos;s why.</p>
 <b><p style="text-align: justify;">A performance improvement has been made to the website</p></b>
